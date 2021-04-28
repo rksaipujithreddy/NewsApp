@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Business</key>
+	<string>business</string>
+	<key>Entertainment</key>
+	<string>entertainment</string>
+	<key>General</key>
+	<string>general</string>
+	<key>Health</key>
+	<string>health</string>
+	<key>Science</key>
+	<string>Science</string>
+	<key>Sports</key>
+	<string>sports</string>
+	<key>Technology</key>
+	<string>technology</string>
+</dict>
+</plist>

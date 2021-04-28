@@ -1,0 +1,16 @@
+
+
+Project : News App
+
+Link to get API Key : https://newsapi.org/  Design Pattern used : MVVM
+
+DB to persistent : SQLite
+
+Hi Team, Due to some high prioity work in our project, I asked HR to extend the date, and due to busy in work(we have UAT going is going in our project now so I got busy with that and last week end we had office too), I have done this one in last two days, I still can improvise this App, if I had some more time. I have ability to work in CoreData too but as specified I used SQLite for this App.
+
+Some Things can be improved:
+
+1. Bookmarked items can show in other Tab, navigating from side menu.
+2. Asking user to enter manually and Storing the API key in Plist and use it. Right now I    used my API Key.
+
+Thanks for giving an opportunity. If any suggestion or improvements needed I am ready to make.
